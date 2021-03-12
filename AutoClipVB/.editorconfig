@@ -1,4 +1,0 @@
-﻿[*.vb]
-
-# BC42108: 変数が、値が割り当てられる前に参照渡しによって渡されます
-dotnet_diagnostic.BC42108.severity = silent
