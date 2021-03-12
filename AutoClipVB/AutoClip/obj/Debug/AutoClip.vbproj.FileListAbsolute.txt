@@ -1,0 +1,14 @@
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\bin\Debug\AutoClip.exe.config
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\bin\Debug\AutoClip.exe
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\bin\Debug\AutoClip.pdb
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\bin\Debug\AutoClip.xml
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\obj\Debug\AutoClip.FrmMain.resources
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\obj\Debug\AutoClip.Resources.resources
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\obj\Debug\AutoClip.vbproj.GenerateResource.cache
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\obj\Debug\AutoClip.vbproj.CoreCompileInputs.cache
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\obj\Debug\AutoClip.exe
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\obj\Debug\AutoClip.xml
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\obj\Debug\AutoClip.pdb
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\obj\Debug\AutoClip.FrmClip.resources
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\obj\Debug\AutoClip.FrmAutoCloseMsg.resources
+E:\Document\Programming\Visual Studio\AutoClip\AutoClip\obj\Debug\AutoClip.vbprojAssemblyReference.cache
