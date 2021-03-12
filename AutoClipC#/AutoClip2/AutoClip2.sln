@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoClip2", "AutoClip2\AutoClip2.csproj", "{1615DC06-AE93-4356-9CF2-7F44C01C94EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1615DC06-AE93-4356-9CF2-7F44C01C94EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1615DC06-AE93-4356-9CF2-7F44C01C94EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1615DC06-AE93-4356-9CF2-7F44C01C94EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1615DC06-AE93-4356-9CF2-7F44C01C94EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDA1B947-2CB5-477D-8181-98242A039849}
+	EndGlobalSection
+EndGlobal
